@@ -1,6 +1,6 @@
 # Daily Awesome Check List
 
-## For everyone
+## For Everyone
 * [HackerNews](https://news.ycombinator.com/news)
 * [HackerNews](https://hnews.xyz/top)
 * [Techcrunch](http://techcrunch.com)
