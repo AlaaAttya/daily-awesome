@@ -22,7 +22,7 @@
 #### GOLang
 * [Reddit GOLang](https://www.reddit.com/r/golang/)
 * [Github Trending Golang Respos](https://github.com/trending/go?since=daily)
-
+* [Golang news](https://golangnews.com/)
 
 ## Frontend Developers
 
