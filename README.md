@@ -41,7 +41,7 @@
 
 ## Devops
 
-
+* [Reddit DevOps](https://www.reddit.com/r/devops/)
 * [Trending Devops](https://github.com/showcases/devops-tools)
 
 ## Mobile Developers
